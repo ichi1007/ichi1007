@@ -9,3 +9,5 @@
     <img height="20" src="https://img.shields.io/github/followers/ichi1007?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ichi1007&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
