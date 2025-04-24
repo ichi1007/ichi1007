@@ -1,7 +1,7 @@
 Hi there 👋
 I'm ichi ! 
-
-
+<br />
+<br />
 <p align="left">
   <a href="https://github.com/ichi1007/ichi1007/">
     <img src="https://komarev.com/ghpvc/?username=ichi1007" alt="ichi1007" />
